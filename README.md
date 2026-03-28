@@ -72,8 +72,15 @@ The dataset follows a **Star Schema Model** with fact and dimension tables:
 ### 🔹 Main Dashboard
 <img width="1209" height="702" alt="image" src="https://github.com/user-attachments/assets/92cde8f9-38b0-4d69-b6ff-508fec6c786b" />
 
+### 🔹 Property Dashboard
+<img width="1222" height="690" alt="image" src="https://github.com/user-attachments/assets/2b2fbb1e-b449-4b29-a67a-a400b187b4de" />
 
-![Dashboard Screenshot](Images/dashboard_screenshot.png)
+### 🔹 Customer Dashboard
+<img width="1213" height="674" alt="image" src="https://github.com/user-attachments/assets/9a29f1c6-3a46-4761-a2a1-36a7da556f54" />
+
+### 🔹 Agent Dashboard
+<img width="1212" height="681" alt="image" src="https://github.com/user-attachments/assets/594b50f0-0394-40d8-b26c-1f534936d2af" />
+
 
 ---
 
